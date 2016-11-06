@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="679413887539096"
+    token="-4430310451139258121"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="966" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="389" />
+    <task
+        name="verifier"
+        duration="84" />
+
+    <artifact
+        location="E:\workspace\AndroidStudio\TimeMirror\TimeMirror\build\outputs\apk\TimeMirror-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="679413887539096"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\workspace\AndroidStudio\TimeMirror\TimeMirror\build\outputs\apk\TimeMirror-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

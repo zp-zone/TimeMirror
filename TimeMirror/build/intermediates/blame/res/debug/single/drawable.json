@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_bottom_selected.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_bottom_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\dark_dot.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\dark_dot.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_bottom_unselected.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_bottom_unselected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\manage.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\manage.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\dot1.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\dot1.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\main_item_background.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\main_item_background.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\holder_bg.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\holder_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\del_icon_normal.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\del_icon_normal.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\info.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\help_00.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\help_00.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\help_03.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\help_03.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_handle_vertical.9.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\splash.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_top_unselected.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_top_unselected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_arrow.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\setting_arrow.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_top_selector.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_top_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\aboutme.jpg",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\aboutme.jpg"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\wechat_icon.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\wechat_icon.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_quit_selected.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_quit_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\item_point_bg.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\item_point_bg.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\help_02.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\help_02.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\default_qq_avatar.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\default_qq_avatar.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_quit_selector.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_quit_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_shape_bg.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_shape_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_shape_line.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_shape_line.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\floatview_shape_bg.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\floatview_shape_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\viewappstatics_shape_bg.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\viewappstatics_shape_bg.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_bottom_selector.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_bottom_selector.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\setting.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\sysicon.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\sysicon.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\dot.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\white_dot.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\white_dot.png"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_top_selected.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_top_selected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\set_bg_quit_unselected.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\set_bg_quit_unselected.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\drawable\\help_01.png",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\drawable\\help_01.png"
+    }
+]

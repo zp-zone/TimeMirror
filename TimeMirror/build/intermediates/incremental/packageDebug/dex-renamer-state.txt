@@ -1,0 +1,7 @@
+#Sun Nov 06 17:50:12 CST 2016
+base.0=E\:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb1274d11646515eb0bc5232ad8cb8e7fd32f38b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4c5795cfedf5ba041e118f7451a8216e708580d1\\classes.dex
+base.1=E\:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4c5795cfedf5ba041e118f7451a8216e708580d1
+file.0=E\:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fb1274d11646515eb0bc5232ad8cb8e7fd32f38b\\classes.dex

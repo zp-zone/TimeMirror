@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\workspace\AndroidStudio\TimeMirror\TimeMirror\libs"><file name="android-support-v4.jar" path="E:\workspace\AndroidStudio\TimeMirror\TimeMirror\libs\android-support-v4.jar"/></source></dataSet><dataSet config="debug"><source path="E:\workspace\AndroidStudio\TimeMirror\TimeMirror\src\debug\jniLibs"/></dataSet></merger>

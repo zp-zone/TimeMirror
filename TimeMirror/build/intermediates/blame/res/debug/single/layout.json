@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help_item.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_help_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_common_title.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_common_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_aboutapp.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_setting_aboutapp.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viewstatics.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_viewstatics.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appmanage.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_appmanage.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\floatview_big.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\floatview_big.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_viewstatics_title.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_viewstatics_title.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_item.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_main_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\slide_view_merge.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\slide_view_merge.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\floatview_small.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\floatview_small.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_appmanage_appinfo_item.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_appmanage_appinfo_item.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting_aboutme.xml",
+        "source": "E:\\workspace\\AndroidStudio\\TimeMirror\\TimeMirror\\res\\layout\\activity_setting_aboutme.xml"
+    }
+]
