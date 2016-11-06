@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  更新apk的服务器地址  -->
+    <string name="updateurl">http://10.0.2.2/QuickAccessServer/updateinfo.xml</string>
+    
+</resources>
